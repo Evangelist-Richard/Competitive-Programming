@@ -1,3 +1,4 @@
+// 32 B Borze
 // https://codeforces.com/problemset/problem/32/B
 
 #include <iostream>
